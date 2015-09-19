@@ -1,2 +1,2 @@
-# myostro.github.io
-Project Site
+# Myostro
+MHacks6 hackathon project website

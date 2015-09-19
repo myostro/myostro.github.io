@@ -480,7 +480,21 @@ body {
     height:auto;
 }
 
+.resize-demo {
+    width:auto;
+    height: 100%;
+}
+
 .resizeMyo {
     width:70%;
+    height:auto;
+}
+
+.resize-sw {
+    width:45%;
+    height:auto;
+}
+.resize-c{
+    width:48%;
     height:auto;
 }
